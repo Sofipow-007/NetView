@@ -1,4 +1,4 @@
-# Escaner de Red (incluye IP, NetStat, DNS)
+![Banner NetView](./src/docs/images/NetView%20Banner.png)
 
 ## Descripción del proyecto
 
